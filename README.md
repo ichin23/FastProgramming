@@ -2,7 +2,7 @@
 
 Um aplicativo contruído em <a href="https://flutter.dev">Flutter</a> para exemplificar um trabalho da escola.
 
-<p>
+<a>
  
   <img src="img/HomePage.png" height="400"/><a>HomePage</a>
    
@@ -10,4 +10,4 @@ Um aplicativo contruído em <a href="https://flutter.dev">Flutter</a> para exemp
   
   <img src="img/ProfilePage.png" height="400"/><a>Página de perfil do usuário</a>
   
- </p>
+ </a>
